@@ -2,12 +2,6 @@
 
 传统的React项目开发非常快捷，但不利于SEO的缺点越来越明显。本教材详细讲述了如何基于Next.js构建SSR/SSG项目。如果你有网页静态化的开发需求，本教程将非常适合。学习一个新框架的最佳方法就是结合项目边做边学。本文将手把手带你从零开始实战SSR/SSG，通俗易懂，千万别错过！
 
-## className规范
-
-1. 全局公用级别（不需要模块化）的className，用G-xxx。例如G-autocut(截字)、G-color-red(文字红色)。
-2. 页面级别的className，用P-xxx。
-3. 模块级别的className，用M-xxx。
-
 ## Next.js SSR/SSG超详细教程
 
 该脚手架有超详细的教程，从零开始，逐步讲述Next.js SSR/SSG，新手也能快速掌握。
