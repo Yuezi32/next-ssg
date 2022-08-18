@@ -1,0 +1,19 @@
+.P-index {
+    margin: 50px auto 0;
+    width: 800px;
+    height: 400px;
+    border: solid 1px #999;
+    background: #fff;
+    h1 {
+        margin-top: 30px;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .img-wrap, .pic{
+        display: block;
+        margin: 20px auto 0;
+        width: 60px;
+        height: 60px;
+    }
+}

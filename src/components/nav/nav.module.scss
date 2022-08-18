@@ -1,0 +1,16 @@
+.M-nav {
+    display: flex;
+    background: #e6f7ff;
+    .tab {
+        flex: 1;
+        height: 80px;
+        line-height: 80px;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        &.current {
+            background: #1890ff;
+            color: #fff;
+        }
+    }
+}

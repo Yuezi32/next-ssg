@@ -1,0 +1,24 @@
+{
+  "name": "next-ssg",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint",
+    "customBuild": "cross-env BASE_PATH=%npm_config_base% next build && next export -o %npm_config_out%"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5",
+    "sass": "^1.54.4"
+  }
+}

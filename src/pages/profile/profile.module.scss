@@ -1,0 +1,25 @@
+.P-profile {
+    margin: 50px auto 0;
+    width: 800px;
+    height: 400px;
+    border: solid 1px #999;
+    background: #fff;
+    .top-bar{
+        padding-left: 20px;
+        height: 60px;
+        line-height: 60px;
+        background: #1890ff;
+        color: #fff;
+        cursor: pointer;
+    }
+    h1 {
+        margin-top: 30px;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+        color: #ff7875;
+    }
+    p {
+        padding: 10px 20px
+    }
+}
