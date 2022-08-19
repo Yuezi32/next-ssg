@@ -55,7 +55,7 @@
 
 教程原文请关注我的公众号【卧梅又闻花】，如有问题欢迎在微信公众号私信交流。
 
-查阅文章《看了就会的Next.js SSR/SSG 教程》
+查阅文章[《看了就会的Next.js SSR/SSG 教程》完整版](https://mp.weixin.qq.com/s/5eaWC88ZvH_l4K6BE18nYA)
 
 ![image](https://wx3.sinaimg.cn/large/475dd357ly1gbh774dw0dj210n0ku443.jpg)
 
